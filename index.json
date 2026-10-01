@@ -1,0 +1,75 @@
+{
+  "_meta": {
+    "copyright": "© 2026 محمد لطيف (Mohammed Latief). جميع الحقوق محفوظة. يُمنع النسخ أو إعادة النشر أو الاستخدام دون إذن كتابي من المالك. | © 2026 Mohammed Latief. All rights reserved. Copying, republishing or any use without the owner's written permission is prohibited."
+  },
+  "schema": 1,
+  "revision": 1,
+  "updatedAt": "2026-10-01",
+  "count": 704,
+  "languages": [
+    "ar",
+    "en",
+    "tr",
+    "de"
+  ],
+  "categories": {
+    "quran": {
+      "ar": "القرآن",
+      "en": "Qur'an",
+      "tr": "Kur'an",
+      "de": "Koran"
+    },
+    "seerah": {
+      "ar": "السيرة",
+      "en": "Seerah (Prophet's Biography)",
+      "tr": "Siyer",
+      "de": "Prophetenbiographie (Sira)"
+    },
+    "companions": {
+      "ar": "الصحابة",
+      "en": "Companions",
+      "tr": "Sahabeler",
+      "de": "Gefährten"
+    },
+    "prophets": {
+      "ar": "الأنبياء والقصص",
+      "en": "Prophets & Stories",
+      "tr": "Peygamberler ve Kıssalar",
+      "de": "Propheten und Geschichten"
+    },
+    "fiqh": {
+      "ar": "الفقه والعقيدة والآداب",
+      "en": "Fiqh, Creed & Manners",
+      "tr": "Fıkıh, İtikat ve Edep",
+      "de": "Fiqh, Glaubenslehre und Anstand"
+    },
+    "general": {
+      "ar": "عام",
+      "en": "General",
+      "tr": "Genel",
+      "de": "Allgemein"
+    }
+  },
+  "files": {
+    "ar": {
+      "path": "questions.ar.json",
+      "count": 704,
+      "sha256": "3685eb73d2b8140cd20e99f72cecf435d88f8a777cb5122d0674a9eab90e3a22"
+    },
+    "en": {
+      "path": "questions.en.json",
+      "count": 704,
+      "sha256": "529b8d99d21aedb0518bb268afddde297213c535aa3ff0a33810d27115713b1b"
+    },
+    "tr": {
+      "path": "questions.tr.json",
+      "count": 704,
+      "sha256": "2a31d64c6cfc0934d6fad32998d023f3b58a923fe309b0549cb69c453717593d"
+    },
+    "de": {
+      "path": "questions.de.json",
+      "count": 704,
+      "sha256": "1cb915a90b8ef9dc01da56d21ee6022839de8973dc6ab0b44972009ccba0016e"
+    }
+  }
+}

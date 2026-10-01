@@ -15,7 +15,7 @@ This repository is the question bank used by the **Pro Muslim** app for the Dail
 | File | Purpose |
 | --- | --- |
 | `index.json` | revision number, languages, categories, per-file SHA-256 |
-| `questions.<lang>.json` | questions for `ar`, `en`, `tr`, `de` |
+| `questions.<lang>.json` | questions for `ar`, `en`, `tr`, `de`, `fr`, `es`, `ms`, `fa`, `ur`, `bn` |
 
 Each question: `id` (stable), `c` (category key), `d` (difficulty), `q` (question), `a` (correct answer), `w` (two wrong answers).
 

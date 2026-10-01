@@ -604,7 +604,7 @@
     {"id":631,"c":"general","d":"easy","q":"How many sacred months are there?","a":"Four","w":["Five","Three"]},
     {"id":632,"c":"general","d":"easy","q":"Which two surahs are called Az-Zahrawayn (the Two Radiant Ones)?","a":"Al-Baqarah and Aal-Imran","w":["Al-Fatihah and Al-Baqarah","Ya-Sin and Ar-Rahman"]},
     {"id":633,"c":"general","d":"easy","q":"What is the verse number of Ayat al-Kursi?","a":"255 of Al-Baqarah","w":["256 of Al-Baqarah","1 of Al-Fatihah"]},
-    {"id":634,"c":"general","d":"easy","q":"What is the subject of the Verse of Debt?","a":"Debt, documentation, writing, and witnessing","w":["Al-Hajj","Fasting"]},
+    {"id":634,"c":"general","d":"easy","q":"What is the subject of the Verse of Debt?","a":"Debt, documentation, writing, and witnessing","w":["Hajj (pilgrimage)","Fasting"]},
     {"id":635,"c":"general","d":"easy","q":"Which surah contains the ruling on wine and gambling?","a":"Al-Ma'idah","w":["Al-Baqarah","An-Nisa"]},
     {"id":636,"c":"general","d":"easy","q":"Which surah contains the detailed rulings on inheritance?","a":"An-Nisa","w":["Al-Ma'idah","Al-Baqarah"]},
     {"id":637,"c":"general","d":"easy","q":"Which surah contains the story of the slander (Ifk)?","a":"An-Nur","w":["Al-Ahzab","Al-Ma'idah"]},

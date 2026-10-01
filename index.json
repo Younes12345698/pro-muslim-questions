@@ -3,51 +3,93 @@
     "copyright": "© 2026 محمد لطيف (Mohammed Latief). جميع الحقوق محفوظة. يُمنع النسخ أو إعادة النشر أو الاستخدام دون إذن كتابي من المالك. | © 2026 Mohammed Latief. All rights reserved. Copying, republishing or any use without the owner's written permission is prohibited."
   },
   "schema": 1,
-  "revision": 1,
-  "updatedAt": "2026-10-01",
+  "revision": 2,
+  "updatedAt": "2026-10-02",
   "count": 704,
   "languages": [
     "ar",
     "en",
     "tr",
-    "de"
+    "de",
+    "fr",
+    "es",
+    "ms",
+    "fa",
+    "ur",
+    "bn"
   ],
   "categories": {
     "quran": {
       "ar": "القرآن",
       "en": "Qur'an",
       "tr": "Kur'an",
-      "de": "Koran"
+      "de": "Koran",
+      "fr": "Coran",
+      "es": "Corán",
+      "ms": "Al-Quran",
+      "fa": "قرآن",
+      "ur": "قرآن",
+      "bn": "কুরআন"
     },
     "seerah": {
       "ar": "السيرة",
       "en": "Seerah (Prophet's Biography)",
       "tr": "Siyer",
-      "de": "Prophetenbiographie (Sira)"
+      "de": "Prophetenbiographie (Sira)",
+      "fr": "Sîra (biographie du Prophète)",
+      "es": "Sira (biografía del Profeta)",
+      "ms": "Sirah (Biografi Nabi)",
+      "fa": "سیره",
+      "ur": "سیرت",
+      "bn": "সীরাত"
     },
     "companions": {
       "ar": "الصحابة",
       "en": "Companions",
       "tr": "Sahabeler",
-      "de": "Gefährten"
+      "de": "Gefährten",
+      "fr": "Compagnons",
+      "es": "Compañeros",
+      "ms": "Sahabat",
+      "fa": "صحابه",
+      "ur": "صحابہ",
+      "bn": "সাহাবা"
     },
     "prophets": {
       "ar": "الأنبياء والقصص",
       "en": "Prophets & Stories",
       "tr": "Peygamberler ve Kıssalar",
-      "de": "Propheten und Geschichten"
+      "de": "Propheten und Geschichten",
+      "fr": "Prophètes et récits",
+      "es": "Profetas y relatos",
+      "ms": "Nabi dan Kisah",
+      "fa": "پیامبران و قصه‌ها",
+      "ur": "انبیاء اور قصص",
+      "bn": "নবী-রাসূল ও কাহিনী"
     },
     "fiqh": {
       "ar": "الفقه والعقيدة والآداب",
       "en": "Fiqh, Creed & Manners",
       "tr": "Fıkıh, İtikat ve Edep",
-      "de": "Fiqh, Glaubenslehre und Anstand"
+      "de": "Fiqh, Glaubenslehre und Anstand",
+      "fr": "Fiqh, croyance et bienséance",
+      "es": "Fiqh, credo y buenos modales",
+      "ms": "Fiqah, Akidah dan Adab",
+      "fa": "فقه، عقیده و آداب",
+      "ur": "فقہ، عقیدہ اور آداب",
+      "bn": "ফিকহ, আকীদা ও আদব"
     },
     "general": {
       "ar": "عام",
       "en": "General",
       "tr": "Genel",
-      "de": "Allgemein"
+      "de": "Allgemein",
+      "fr": "Général",
+      "es": "General",
+      "ms": "Umum",
+      "fa": "عمومی",
+      "ur": "عمومی",
+      "bn": "সাধারণ"
     }
   },
   "files": {
@@ -59,7 +101,7 @@
     "en": {
       "path": "questions.en.json",
       "count": 704,
-      "sha256": "529b8d99d21aedb0518bb268afddde297213c535aa3ff0a33810d27115713b1b"
+      "sha256": "d0da21b97d18b9c5a7f730db0d2da32ed21b74d432f1984b101f81529d42dbcd"
     },
     "tr": {
       "path": "questions.tr.json",
@@ -69,7 +111,37 @@
     "de": {
       "path": "questions.de.json",
       "count": 704,
-      "sha256": "1cb915a90b8ef9dc01da56d21ee6022839de8973dc6ab0b44972009ccba0016e"
+      "sha256": "c2cdcbb8b40976cadbf541fdb693a1dc1cea42678e60818c17c1c7b9d0f834a0"
+    },
+    "fr": {
+      "path": "questions.fr.json",
+      "count": 704,
+      "sha256": "369f145ad77118a979f876e4abf663152f12cf26cbfd2fd5394802e14bb5a8ac"
+    },
+    "es": {
+      "path": "questions.es.json",
+      "count": 704,
+      "sha256": "67b4e6391b12c5e2f7cae3dfc38468f82d0f91fcb7fad7c2b5963c257b01b78a"
+    },
+    "ms": {
+      "path": "questions.ms.json",
+      "count": 704,
+      "sha256": "02cdec2a539d251b7d3257640c433303f20d840b0eb578e7c5ec2ddc6bad8215"
+    },
+    "fa": {
+      "path": "questions.fa.json",
+      "count": 704,
+      "sha256": "ee28a181585f16edf0c77f4b258f17c3e49da088859ee4c57aa6b448ea1051d7"
+    },
+    "ur": {
+      "path": "questions.ur.json",
+      "count": 704,
+      "sha256": "9315c12c58c89f3d998f17edd3155f371f1ad8be4b6f935fbfb20f65ff4ef682"
+    },
+    "bn": {
+      "path": "questions.bn.json",
+      "count": 704,
+      "sha256": "a1ccf72ac35143ec5f05b2650cc93dca9be01402e2aeaacc51962bb260426dad"
     }
   }
 }

@@ -3,7 +3,7 @@
     "copyright": "© 2026 محمد لطيف (Mohammed Latief). جميع الحقوق محفوظة. يُمنع النسخ أو إعادة النشر أو الاستخدام دون إذن كتابي من المالك. | © 2026 Mohammed Latief. All rights reserved. Copying, republishing or any use without the owner's written permission is prohibited."
   },
   "schema": 1,
-  "revision": 3,
+  "revision": 4,
   "updatedAt": "2026-10-03",
   "count": 722,
   "languages": [
@@ -101,47 +101,47 @@
     "en": {
       "path": "questions.en.json",
       "count": 722,
-      "sha256": "142d715502803f62077f20b29f8a64730478e77cbf521aca1889a3d481a200fb"
+      "sha256": "5960dc3acd311aa7fcc42bf9d7d63839b050838778d4dde2294a48f663aa25da"
     },
     "tr": {
       "path": "questions.tr.json",
       "count": 722,
-      "sha256": "ab831b62bd20968f74abc49f5d08de0873b1ce8194ba6027df0d860b3ba33ac6"
+      "sha256": "7d0022d199a270cb0f3392802d01600f8c70b953d643e9f6fe1f30aaf42bb324"
     },
     "de": {
       "path": "questions.de.json",
       "count": 722,
-      "sha256": "fe30f2d6e0a583de2960c10bec6a381cdb06e0be42016ac537e549e6f9103893"
+      "sha256": "5acbdb5d3e0a44adcf6ce47e70ce1dc6d5e773495ee0007b8a916bd198c6fb65"
     },
     "fr": {
       "path": "questions.fr.json",
       "count": 722,
-      "sha256": "3c54bcb706272d8d4ce8d69f75f0f210b81595efaad7ce2f82675464dc54d2d0"
+      "sha256": "1c330b6dfb28ef8527c165b7a21a75c0710d74497f243416390e8f00ba93630d"
     },
     "es": {
       "path": "questions.es.json",
       "count": 722,
-      "sha256": "abddcd7e17b1525350e83d3e0b1fbffdeeb233bea7a20354b36c4c161965e3d3"
+      "sha256": "5ebd1a59a1571871120b9597a3c40e7b078852481e816a8d0b62b9951db0b651"
     },
     "ms": {
       "path": "questions.ms.json",
       "count": 722,
-      "sha256": "fba56871af37e8fd9f5f6a2f2d75d69c4df58418ef082b09653660a881ef44c1"
+      "sha256": "c69f6534d8abe4f6ae6ab629e2c48f347aa9faec5792656e2e6a5db5bcb2cb1d"
     },
     "fa": {
       "path": "questions.fa.json",
       "count": 722,
-      "sha256": "ee52b8ccd3cb0ab49d4a5e778384d70b1f1356c65def04fb719616a9c2e6a791"
+      "sha256": "80e3a5f77659f4b79f628b3d612db6f31752f704c2bfd6f31dad7dfde628ec59"
     },
     "ur": {
       "path": "questions.ur.json",
       "count": 722,
-      "sha256": "673866632a32597855a7ba7346a990ad873c4b576ddadb73569cc5afc743a6b3"
+      "sha256": "8dcef01565ba3a3b2d83f2196b06c76147c31a068360b4c98a34ae9770edcb22"
     },
     "bn": {
       "path": "questions.bn.json",
       "count": 722,
-      "sha256": "d407a4cfc9ad158dc0ae89d28a5601d1d7320cfc1d88aeb336b3ed805e92835b"
+      "sha256": "d5c30d3cea734841c613c6def945deb41c58e57c07b155ea70d594c7e5a4589d"
     }
   }
 }

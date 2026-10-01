@@ -3,9 +3,9 @@
     "copyright": "© 2026 محمد لطيف (Mohammed Latief). جميع الحقوق محفوظة. يُمنع النسخ أو إعادة النشر أو الاستخدام دون إذن كتابي من المالك. | © 2026 Mohammed Latief. All rights reserved. Copying, republishing or any use without the owner's written permission is prohibited."
   },
   "schema": 1,
-  "revision": 2,
-  "updatedAt": "2026-10-02",
-  "count": 704,
+  "revision": 3,
+  "updatedAt": "2026-10-03",
+  "count": 722,
   "languages": [
     "ar",
     "en",
@@ -95,53 +95,53 @@
   "files": {
     "ar": {
       "path": "questions.ar.json",
-      "count": 704,
-      "sha256": "3685eb73d2b8140cd20e99f72cecf435d88f8a777cb5122d0674a9eab90e3a22"
+      "count": 722,
+      "sha256": "c7f3b2b334b6efab7df036859d0bd7e10fb98877189bec9dd025ec4ca65c88fa"
     },
     "en": {
       "path": "questions.en.json",
-      "count": 704,
-      "sha256": "d0da21b97d18b9c5a7f730db0d2da32ed21b74d432f1984b101f81529d42dbcd"
+      "count": 722,
+      "sha256": "142d715502803f62077f20b29f8a64730478e77cbf521aca1889a3d481a200fb"
     },
     "tr": {
       "path": "questions.tr.json",
-      "count": 704,
-      "sha256": "2a31d64c6cfc0934d6fad32998d023f3b58a923fe309b0549cb69c453717593d"
+      "count": 722,
+      "sha256": "ab831b62bd20968f74abc49f5d08de0873b1ce8194ba6027df0d860b3ba33ac6"
     },
     "de": {
       "path": "questions.de.json",
-      "count": 704,
-      "sha256": "c2cdcbb8b40976cadbf541fdb693a1dc1cea42678e60818c17c1c7b9d0f834a0"
+      "count": 722,
+      "sha256": "fe30f2d6e0a583de2960c10bec6a381cdb06e0be42016ac537e549e6f9103893"
     },
     "fr": {
       "path": "questions.fr.json",
-      "count": 704,
-      "sha256": "369f145ad77118a979f876e4abf663152f12cf26cbfd2fd5394802e14bb5a8ac"
+      "count": 722,
+      "sha256": "3c54bcb706272d8d4ce8d69f75f0f210b81595efaad7ce2f82675464dc54d2d0"
     },
     "es": {
       "path": "questions.es.json",
-      "count": 704,
-      "sha256": "67b4e6391b12c5e2f7cae3dfc38468f82d0f91fcb7fad7c2b5963c257b01b78a"
+      "count": 722,
+      "sha256": "abddcd7e17b1525350e83d3e0b1fbffdeeb233bea7a20354b36c4c161965e3d3"
     },
     "ms": {
       "path": "questions.ms.json",
-      "count": 704,
-      "sha256": "02cdec2a539d251b7d3257640c433303f20d840b0eb578e7c5ec2ddc6bad8215"
+      "count": 722,
+      "sha256": "fba56871af37e8fd9f5f6a2f2d75d69c4df58418ef082b09653660a881ef44c1"
     },
     "fa": {
       "path": "questions.fa.json",
-      "count": 704,
-      "sha256": "ee28a181585f16edf0c77f4b258f17c3e49da088859ee4c57aa6b448ea1051d7"
+      "count": 722,
+      "sha256": "ee52b8ccd3cb0ab49d4a5e778384d70b1f1356c65def04fb719616a9c2e6a791"
     },
     "ur": {
       "path": "questions.ur.json",
-      "count": 704,
-      "sha256": "9315c12c58c89f3d998f17edd3155f371f1ad8be4b6f935fbfb20f65ff4ef682"
+      "count": 722,
+      "sha256": "673866632a32597855a7ba7346a990ad873c4b576ddadb73569cc5afc743a6b3"
     },
     "bn": {
       "path": "questions.bn.json",
-      "count": 704,
-      "sha256": "a1ccf72ac35143ec5f05b2650cc93dca9be01402e2aeaacc51962bb260426dad"
+      "count": 722,
+      "sha256": "d407a4cfc9ad158dc0ae89d28a5601d1d7320cfc1d88aeb336b3ed805e92835b"
     }
   }
 }
